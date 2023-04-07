@@ -1,7 +1,7 @@
 /******************************************
 /* CSS
 /*******************************************/
-
+ 
 /* Box Model Hack */
 *{
   box-sizing: border-box;
@@ -10,13 +10,37 @@
 /******************************************
 /* LAYOUT
 /*******************************************/
+*{
+  font-size: 62.5%;
+}
 
+body{
+  padding: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: black;
+}
 img{
-  width: 400px
+  width: auto;
+  max-height: 250px
   
   
 }
-
+button{
+  border-radius: 100px;
+  padding: 15px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  border: double 20px;
+  font-size: 5rem;
+  margin: 20px;
+  background: rgba(255, 255, 255, 0.651);
+}
+button:hover{
+  background: white;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
