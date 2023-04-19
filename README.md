@@ -1,22 +1,17 @@
-# 📊 Project: Simple API 1
+# CAT PHOTO GENERATOR
+A simple web app that fetches photos from TheCatAPI. 
 
-### Goal: Display data returned from an api
+[Check it out here :sparkles:](https://cats4ever.netlify.app/)
 
-### How to submit your code for review:
+<a href="https://cats4ever.netlify.app/" target="_blank">
+    <img src="https://github.com/randicrews/cats/blob/answer/cats.gif"/>
+</a>
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## USING 
+- HTML
+- CSS
+- JAVASCRIPT
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## TAKEAWAY
+Through building this app, I learned more about fetching data from web APIs and displaying that data in the DOM.
+
